@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <center>
-  <img width="1000px" src="https://github.com/Fabriciooml/Fabriciooml/blob/output/github-contribution-grid-snake.svg/">
+  <img width="1000px" src="https://github.com/lorranhenrique/lorranhenrique/blob/output/github-contribution-grid-snake.svg/">
 </center>
