@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me 😃
+- 🎓 Graduating in Bachelor of Information Systems
+- 📖 Learning about JS, Java, C and Security
+- 🥤 Looking for opportunities abroad
+
