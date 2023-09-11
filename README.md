@@ -1,4 +1,4 @@
-# Lorran Henrique ⚡
+# Lorran Henrique Rezende Alves ⚡
 
 <!--
 **lorranhenrique/lorranhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
