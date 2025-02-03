@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ## About Me 😃
 - 🎓 Graduating in Bachelor of Information Systems
-- 📖 Learning about JS, Java, C and Security
+- 📖 Learning about JS, C# and Security
 - 🥤 Looking for opportunities abroad
 
