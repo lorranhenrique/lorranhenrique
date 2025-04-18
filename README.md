@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning C#, Java and CyberSecurity<br>🕹️ I'm a GameDev and Backend developer<br></p>
+<p align="left">🕹️ I'm a GameDev and Backend developer<br>✨ Creating bugs since 2018<br>📚 I'm currently learning C#, Java and CyberSecurity<br></p>
 
 ###
 
