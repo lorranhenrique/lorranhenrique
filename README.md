@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - 📖 Learning about JS, C# and Security
 - 🥤 Looking for opportunities abroad
 
+- <img src="https://raw.githubusercontent.com/lorranhenrique/lorranhenrique/output/snake.svg" alt="Snake animation" />
+
+###
+
