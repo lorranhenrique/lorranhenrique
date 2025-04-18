@@ -27,6 +27,8 @@
   <img width="12" />
   <img src=https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg height="40" alt="csharp logo"  />
   <img width="12" />
+  <img src=https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-original.svg height="40" alt="unity logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
 </div>
