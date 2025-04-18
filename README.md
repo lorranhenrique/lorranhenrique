@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me 😃
-- 🎓 Graduating in Bachelor of Information Systems  -📖 Learning about JS, C# and Security  -🥤 Looking for opportunities abroad
+## About Me 😄
+- 🎓 Graduating in Bachelor of Information Systems
+- 📖 Learning about JS, C# and Security
+- 🥤 Looking for opportunities abroad
 <img src="https://raw.githubusercontent.com/lorranhenrique/lorranhenrique/output/snake.svg" alt="Snake animation" />
 
 ###
