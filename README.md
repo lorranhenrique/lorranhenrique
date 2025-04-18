@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 📖 Learning about JS, C# and Security
 - 🥤 Looking for opportunities abroad
 
+<img src="https://raw.githubusercontent.com/lorranhenrique/lorranhenrique/output/snake.svg" alt="Snake animation" />
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -32,7 +35,3 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/lorranhenrique/lorranhenrique/output/snake.svg" alt="Snake animation" />
-
-###
-
