@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Lorran Henrique ⚡</p>
+<p align="left">⚡My name is Lorran Henrique</p>
+<p align="left">🎓Bachelor of Computer Information Systems at IFMG</p>
 
 ###
 
