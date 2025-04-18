@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me 😃
-- 🎓 Graduating in Bachelor of Information Systems
-- 📖 Learning about JS, C# and Security
-- 🥤 Looking for opportunities abroad
+- 🎓 Graduating in Bachelor of Information Systems  -📖 Learning about JS, C# and Security  -🥤 Looking for opportunities abroad
 <img src="https://raw.githubusercontent.com/lorranhenrique/lorranhenrique/output/snake.svg" alt="Snake animation" />
 
 ###
