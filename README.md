@@ -1,23 +1,37 @@
-# Lorran Henrique Rezende Alves ⚡
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**lorranhenrique/lorranhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Lorran Henrique ⚡</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About Me 😄
-- 🎓 Graduating in Bachelor of Information Systems
-- 📖 Learning about JS, C# and Security
-- 🥤 Looking for opportunities abroad
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning C#, Java and CyberSecurity<br></p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src=https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+</div>
+
+###
 <img src="https://raw.githubusercontent.com/lorranhenrique/lorranhenrique/output/snake.svg" alt="Snake animation" />
 
 ###
